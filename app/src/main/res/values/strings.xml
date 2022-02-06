@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SampleChallengeIno</string>
+    <string name="no_internet_error">Connect to the Internet</string>
+    <string name="something_went_wrong">Something Went Wrong try again later!</string>
+
+</resources>
